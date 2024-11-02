@@ -1,0 +1,20 @@
+{
+  "name": "htpp",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000h\u0000t\u0000t\u0000p\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "koa": "^2.15.3",
+    "koa-body": "^6.0.1",
+    "koa-router": "^13.0.1",
+    "uuid": "^11.0.2"
+  }
+}
